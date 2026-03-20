@@ -74,7 +74,7 @@ Git • Docker • Linux • Postman • Jupyter • Vercel • Render
 - Solved **520+ DSA problems** (LeetCode + HackerRank)  
 - ⭐ 5-Star in Problem Solving & Python (HackerRank)  
 - 🧠 GATE 2026 Qualified  
-  - CS: 316  
+  - CS & IT: 316  
   - DS & AI: 285  
 - 🏆 Salesforce Agentblazer Champion  
 - 📚 Trailhead Mountaineer (46+ badges)  
@@ -84,8 +84,8 @@ Git • Docker • Linux • Postman • Jupyter • Vercel • Render
 ## 📫 Connect With Me
 
 - 📧 gaganchandra02@gmail.com  
-- 💼 LinkedIn: (add link)  
-- 🧑‍💻 GitHub: (add link)  
+- 💼 LinkedIn: https://www.linkedin.com/in/gagan-chandra 
+- 🧑‍💻 GitHub: https://github.com/gagannchandra/  
 - 🌐 Portfolio: (add link if available)
 
 ---
