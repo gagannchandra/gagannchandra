@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gagan Chandra</h1>
-<h3 align="center">Backend Engineer | API Systems | Machine Learning</h3>
+<h3 align="center">Backend Engineer | REST APIs | NLP & Machine Learning</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE (AI) student with focus on **backend engineering & system design**
-- ⚙️ I build **production-style systems**, not just academic projects
-- 📊 Strong foundation in **DSA (500+ problems)** and core CS fundamentals  
-- 🤖 Experience in **Machine Learning + NLP pipelines**
+- 🎓 B.Tech CSE (AI) @ PSIT, AKTU — Graduating 2026
+- ⚙️ I build **production-style backend systems**, not just academic projects
+- 📊 Strong foundation in **DSA (520+ problems)** across LeetCode, GFG & HackerRank
+- 🤖 Experience in **end-to-end ML/NLP pipelines** with real deployments
 - 🚀 Actively looking for **SDE / Backend / ML roles**
 
 ---
@@ -16,84 +16,84 @@
 ## ⚡ Tech Stack
 
 ### 💻 Languages
-Python • Java • C • JavaScript • SQL • Bash  
+Python • JavaScript • Java • SQL
 
 ### 🧩 Backend & Systems
-Node.js • Express.js • REST APIs • Authentication  
-System Design • CLI Applications  
+Flask • FastAPI • Node.js • Express.js • REST API Design • Authentication • Rate Limiting • Client-Server Architecture
 
 ### 🌐 Frontend
-React.js • HTML5 • CSS3  
+HTML5 • CSS3 • JavaScript (Fetch API, DOM)
 
-### 🤖 Machine Learning
-Scikit-learn • TensorFlow • NLP • TF-IDF • LSTM  
+### 🤖 Machine Learning & NLP
+Scikit-learn • TF-IDF • Logistic Regression • Streamlit
 
 ### 🗄️ Databases
-MySQL • MongoDB  
+MySQL • PostgreSQL • MongoDB • SQLite • SQLAlchemy
 
-### 🛠️ Tools
-Git • Docker • Linux • Postman • Jupyter • Vercel • Render  
+### 🛠️ Tools & DevOps
+Git • Docker • Linux • Postman • Render • Vercel • Gunicorn
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Binance Futures Testnet Trading Bot
-- Built a **production-style CLI trading bot** using REST APIs  
-- Implemented multiple order types with validation & failure handling  
-- Designed **modular architecture** (API client + logic + CLI)  
-- Integrated secure API signing & environment-based credential handling  
-- Added structured logging with rotation  
+### 🔹 Shortly — URL Shortener with Analytics Dashboard
+[GitHub](https://github.com/gagannchandra) | [Live](https://gagannchandra.vercel.app)
 
-👉 *Tech:* Python, REST APIs, CLI Architecture  
+- Built URL shortener with **custom aliases, expiry & unique short code generation**
+- Designed REST API (`/api/shorten`) for programmatic URL creation and validation
+- Implemented **click-tracking system** with analytics dashboard for link activity insights
+- Developed responsive frontend using vanilla JS with async API integration
+- Handled edge cases with robust error handling (404/500) and input validation
 
----
-
-### 🔹 Retail Order & Inventory Management System
-- Developed scalable backend services for **orders & inventory workflows**  
-- Designed optimized database schema improving query performance  
-- Implemented **role-based authentication & validation**  
-- Integrated APIs with frontend and tested via Postman  
-
-👉 *Tech:* Node.js, Express.js, MySQL  
+👉 *Tech:* Python, Flask, SQLAlchemy, JavaScript
 
 ---
 
-### 🔹 Sentiment Analysis System
-- Built end-to-end NLP pipeline using IMDb dataset  
-- Applied TF-IDF, preprocessing & feature engineering  
-- Compared ML vs Deep Learning (Logistic Regression vs LSTM)  
-- Deployed real-time prediction via Flask + Streamlit  
+### 🔹 Sentiment Analysis System (End-to-End NLP Application)
+   [   GitHub](https://github.com/gagannchandra) | *Ongoing*
 
-👉 *Tech:* Python, Scikit-learn, TensorFlow, Flask  
+- Built sentiment analysis pipeline using **TF-IDF + Logistic Regression (~85% accuracy)**
+- Exposed model via Flask API (`/predict`) for real-time inference
+- Developed **Streamlit UI** for interactive and batch text analysis
+- Containerized and deployed on Render using **Docker + Gunicorn**
+- Designed decoupled architecture enabling independent frontend-backend scaling
+
+👉 *Tech:* Python, Scikit-learn, Flask, Streamlit, Docker
 
 ---
 
 ## 📈 Achievements
 
-- Solved **520+ DSA problems** (LeetCode + HackerRank)  
-- ⭐ 5-Star in Problem Solving & Python (HackerRank)  
-- 🧠 GATE 2026 Qualified  
-  - CS & IT: 316  
-  - DS & AI: 285  
-- 🏆 Salesforce Agentblazer Champion  
-- 📚 Trailhead Mountaineer (46+ badges)  
+- Solved **520+ DSA problems** (LeetCode + GeeksforGeeks + HackerRank)
+- ⭐ 5-Star in Problem Solving & Python (HackerRank)
+- 🧠 **GATE 2026 Qualified** — CS & IT: 316 | DS & AI: 285
+- 🏆 Salesforce Agentblazer Champion — Mountaineer Rank (46+ badges)
+
+---
+
+## 📜 Certifications
+
+- 🎓 CS50: Introduction to Computer Science — Harvard University
+- 🤖 Google AI Essentials — Google
+- 📊 Introduction to Data Science — IBM (edX)
+- 🔄 Agile with Atlassian Jira — Coursera *(Ongoing)*
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 gaganchandra02@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/gagan-chandra 
-- 🧑‍💻 GitHub: https://github.com/gagannchandra/  
-- 🌐 Portfolio: (add link if available)
+- 📧 gaganchandra02@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/gagan-chandra
+- 🧑‍💻 GitHub: https://github.com/gagannchandra
+- 🌐 Portfolio: https://gagannchandra.vercel.app
 
 ---
 
 ## ⚡ What Makes Me Different
 
-- I don’t just build projects — I build **systems with structure**
+- I don't just build projects — I build **systems with structure**
 - Strong mix of **backend engineering + ML understanding**
-- Comfortable working with **real-world constraints (APIs, auth, logging, scaling)**
+- Comfortable working with **real-world constraints (APIs, auth, Docker, deployment)**
 
 ---
