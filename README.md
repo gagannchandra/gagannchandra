@@ -1,99 +1,156 @@
 <h1 align="center">Hi 👋, I'm Gagan Chandra</h1>
-<h3 align="center">Backend Engineer | REST APIs | NLP & Machine Learning</h3>
+<h3 align="center">CS undergrad learning to build things that actually work</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gagan-chandra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gaganchandra02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://gagannchandra.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/gagannchandra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧠 About Me
+## 🙋 About Me
 
-- 🎓 B.Tech CSE (AI) @ PSIT, AKTU — Graduating 2026
-- ⚙️ I build **production-style backend systems**, not just academic projects
-- 📊 Strong foundation in **DSA (520+ problems)** across LeetCode, GFG & HackerRank
-- 🤖 Experience in **end-to-end ML/NLP pipelines** with real deployments
-- 🚀 Actively looking for **SDE / Backend / ML roles**
+I'm a final-year CS student who enjoys building backend systems and solving problems. Still learning a lot — but I try to make sure every project teaches me something new rather than just repeating what I already know.
+
+- 🎓 B.Tech CSE (AI) @ PSIT, AKTU — Graduating May 2026
+- 💼 Full Stack Developer Intern @ **Abroaderz** — working with a real team on production code for the first time, which has been humbling and genuinely useful
+- 📊 Solved **520+ DSA problems** across LeetCode, GFG & HackerRank — slowly getting better at the hard ones
+- 🧪 **GATE 2026 Qualified** — CS & IT: 316 | DS & AI: 285
+- 🔍 Looking for **SDE / Backend / Full Stack roles** where I can keep growing
 
 ---
 
 ## ⚡ Tech Stack
 
+Things I've worked with and feel reasonably comfortable in:
+
 ### 💻 Languages
-Python • JavaScript • Java • SQL
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🧩 Backend & Systems
-Flask • FastAPI • Node.js • Express.js • REST API Design • Authentication • Rate Limiting • Client-Server Architecture
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🌐 Frontend
-HTML5 • CSS3 • JavaScript (Fetch API, DOM)
-
-### 🤖 Machine Learning & NLP
-Scikit-learn • TF-IDF • Logistic Regression • Streamlit
+![REST API](https://img.shields.io/badge/REST_API-005C84?style=flat-square&logo=fastapi&logoColor=white)
+![Task Queues](https://img.shields.io/badge/Task_Queues-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-FF6C37?style=flat-square&logo=nginx&logoColor=white)
+![Caching](https://img.shields.io/badge/Caching-009688?style=flat-square&logo=cachet&logoColor=white)
+![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-6DB33F?style=flat-square&logo=resilience4j&logoColor=white)
 
 ### 🗄️ Databases
-MySQL • PostgreSQL • MongoDB • SQLite • SQLAlchemy
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### 🛠️ Tools & DevOps
-Git • Docker • Linux • Postman • Render • Vercel • Gunicorn
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=flat-square&logo=python&logoColor=white)
+---
+
+## 🚀 Projects
+
+These are the things I've spent real time on — not polished showcases, but projects where I hit actual problems and had to figure things out.
+
+### 🔹 [Shortly — URL Shortener with Analytics](https://github.com/gagannchandra/shortly-url-shortener) · [Live ↗](https://gagannchandra.pythonanywhere.com/)
+> *Python · Flask · SQLAlchemy · PostgreSQL · JavaScript*
+
+Started this to understand how URL shorteners actually work under the hood. Learned a lot about API design and edge cases I hadn't thought about upfront.
+
+- Built custom alias support, TTL-based expiry, and collision-free short-code generation (base-62 encoding)
+- Designed a REST API (`/api/shorten`) with structured error responses and input validation
+- Added a click-level analytics dashboard to track link activity over time
+- Deployed on PythonAnywhere with environment-variable config and input sanitisation
 
 ---
 
-## 🚀 Featured Projects
+### 🔹 Distributed AI Workflow Automation Platform *(Work in Progress)*
+> *Python · FastAPI · Redis · Docker*
 
-### 🔹 Shortly — URL Shortener with Analytics Dashboard
-[GitHub](https://github.com/gagannchandra) | [Live](https://gagannchandra.vercel.app)
+Trying to understand distributed systems from first principles by building one. Still figuring out parts of it — but that's kind of the point.
 
-- Built URL shortener with **custom aliases, expiry & unique short code generation**
-- Designed REST API (`/api/shorten`) for programmatic URL creation and validation
-- Implemented **click-tracking system** with analytics dashboard for link activity insights
-- Developed responsive frontend using vanilla JS with async API integration
-- Handled edge cases with robust error handling (404/500) and input validation
-
-👉 *Tech:* Python, Flask, SQLAlchemy, JavaScript
+- Designing a task execution system with Redis-backed queues and async worker nodes
+- Working through fault-tolerance patterns: retry with exponential backoff, dead-letter queues, backpressure handling
+- Building an LRU caching layer and experimenting with rate limiting at the API gateway level
 
 ---
 
-### 🔹 Sentiment Analysis System (End-to-End NLP Application)
-   [   GitHub](https://github.com/gagannchandra) | *Ongoing*
+### 🔹 Sentiment Analysis System
+> *Python · Scikit-learn · Flask · Streamlit · Docker*
 
-- Built sentiment analysis pipeline using **TF-IDF + Logistic Regression (~85% accuracy)**
-- Exposed model via Flask API (`/predict`) for real-time inference
-- Developed **Streamlit UI** for interactive and batch text analysis
-- Containerized and deployed on Render using **Docker + Gunicorn**
-- Designed decoupled architecture enabling independent frontend-backend scaling
+My first end-to-end ML deployment — wanted to go beyond notebooks and see what it actually takes to ship a model.
 
-👉 *Tech:* Python, Scikit-learn, Flask, Streamlit, Docker
+- Built a TF-IDF + Logistic Regression pipeline (~85% accuracy)
+- Wrapped it in a Flask API and a Streamlit UI for interactive and batch analysis
+- Containerized with Docker and deployed on Render using Gunicorn
 
 ---
 
-## 📈 Achievements
+## 📈 Highlights
 
-- Solved **520+ DSA problems** (LeetCode + GeeksforGeeks + HackerRank)
-- ⭐ 5-Star in Problem Solving & Python (HackerRank)
-- 🧠 **GATE 2026 Qualified** — CS & IT: 316 | DS & AI: 285
-- 🏆 Salesforce Agentblazer Champion — Mountaineer Rank (46+ badges)
+| | |
+|---|---|
+| 🧠 | **GATE 2026** — CS & IT: 316 · DS & AI: 285 |
+| 💻 | **520+ DSA problems** on LeetCode, GeeksforGeeks & HackerRank |
+| ⭐ | **5-Star** rating in Problem Solving & Python on HackerRank |
+| 🏆 | Salesforce Agentblazer Champion — Mountaineer Rank (46+ badges) |
+
+---
+
+## 🧮 DSA — What I've Been Practising
+
+```
+Dynamic Programming    ████████████  1D/2D, string, tree variants
+Graph Algorithms       ████████████  BFS/DFS, Dijkstra, Topological Sort
+Trees & Heaps          ███████████   Segment Tree, Fenwick Tree (BIT)
+Hashing & Tries        ██████████    Rolling Hash, KMP, Rabin-Karp
+Union-Find (DSU)       █████████     Path compression, union by rank
+Greedy & Intervals     ████████      Still working on internalising these
+```
 
 ---
 
 ## 📜 Certifications
 
-- 🎓 CS50: Introduction to Computer Science — Harvard University
+- 🎓 **CS50: Introduction to Computer Science** — Harvard University
 - 🤖 Google AI Essentials — Google
 - 📊 Introduction to Data Science — IBM (edX)
-- 🔄 Agile with Atlassian Jira — Coursera *(Ongoing)*
+- 🔄 Agile with Atlassian Jira — Coursera
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-- 📧 gaganchandra02@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/gagan-chandra
-- 🧑‍💻 GitHub: https://github.com/gagannchandra
-- 🌐 Portfolio: https://gagannchandra.vercel.app
+Always happy to talk about backend systems, DSA, or just swap notes on things we're both learning.
 
----
-
-## ⚡ What Makes Me Different
-
-- I don't just build projects — I build **systems with structure**
-- Strong mix of **backend engineering + ML understanding**
-- Comfortable working with **real-world constraints (APIs, auth, Docker, deployment)**
+<p>
+  📧 <a href="mailto:gaganchandra02@gmail.com">gaganchandra02@gmail.com</a><br/>
+  💼 <a href="https://linkedin.com/in/gagan-chandra">linkedin.com/in/gagan-chandra</a><br/>
+  🌐 <a href="https://gagannchandra.vercel.app">gagannchandra.vercel.app</a>
+</p>
 
 ---
+
+<p align="center"><i>Still learning. Always building.</i></p>
