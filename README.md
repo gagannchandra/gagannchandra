@@ -17,7 +17,7 @@ I'm a final-year CS student who enjoys building backend systems and solving prob
 - 🎓 B.Tech CSE (AI) @ PSIT, AKTU — Graduating May 2026
 - 💼 Full Stack Developer Intern @ **Abroaderz** — working with a real team on production code for the first time, which has been humbling and genuinely useful
 - 📊 Solved **520+ DSA problems** across LeetCode, GFG & HackerRank — slowly getting better at the hard ones
-- 🧪 **GATE 2026 Qualified** — CS & IT: 316 | DS & AI: 285
+- 🧪 **GATE 2026 Qualified** — CS & IT | DS & AI
 - 🔍 Looking for **SDE / Backend / Full Stack roles** where I can keep growing
 
 ---
