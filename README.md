@@ -15,7 +15,6 @@
 I'm a final-year CS student (AI specialization) who builds things end-to-end — from training ML ensembles to wiring up REST APIs to deploying on real infrastructure. Most of what I know came from hitting a wall on a project and figuring out why.
 
 - 🎓 B.Tech CSE (AI) @ PSIT, AKTU — Graduating May 2026
-- 💼 Full Stack Developer Intern @ **Abroaderz** — working on production code with a real team for the first time
 - 📊 Solved **520+ DSA problems** across LeetCode, GFG & HackerRank — slowly getting better at the hard ones
 - 🧪 ** Dual GATE 2026 Qualified** — CS & IT | DS & AI 
 - 🔍 Looking for **SDE / Backend / ML Engineering roles**
