@@ -169,7 +169,7 @@ Happy to talk about backend systems, ML engineering, or just compare notes on wh
 <p>
   📧 <a href="mailto:gaganchandra02@gmail.com">gaganchandra02@gmail.com</a><br/>
   💼 <a href="https://linkedin.com/in/gagan-chandra">linkedin.com/in/gagan-chandra</a><br/>
-  🌐 <a href="https://gagannchandra.vercel.app">gagannchandra.vercel.app</a>
+  🌐 <a href="https://gaganchandra.in">gaganchandra.in</a>
 </p>
 
 ---
