@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagan Chandra</h1>
-<h3 align="center">final-year CS student who likes building things that actually work</h3>
+<h3 align="center">final-year CS student who likes building things that actually work </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/gagan-chandra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
