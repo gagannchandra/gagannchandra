@@ -80,7 +80,7 @@ Stuff I've used enough to be dangerous:
 
 Things I've actually built and broken and fixed. Each one started with a question I didn't know the answer to.
 
-### 🔹 [HealthAI — Symptom-Based Disease Prediction](https://github.com/gagannchandra/healthai-disease-prediction) · [Live ↗](https://healthai-disease-prediction.vercel.app/)
+### 🔹 [HealthAI — Symptom-Based Disease Prediction](https://github.com/gagannchandra/healthai-disease-prediction) · [Live ↗](https://healthai.gaganchandra.in)
 > *Python · FastAPI · Scikit-learn · React 19 · Tailwind CSS · Render · Final Year Project (AI Specialization)*
 
 My final year project. The question I kept coming back to: does a soft-voting ensemble actually beat any single classifier on this, or is it just more complexity for marginal gains? Turns out it does help, but not as dramatically as I expected — which was a more interesting result than a clean win would have been.
@@ -92,7 +92,7 @@ My final year project. The question I kept coming back to: does a soft-voting en
 
 ---
 
-### 🔹 [GitHub Repository Health Checker](https://github.com/gagannchandra/github-health-checker) · [Live ↗](https://github-health-checker-ktmb.onrender.com/) · [Demo ↗](https://youtu.be/M27N7L4T-bE)
+### 🔹 [GitHub Repository Health Checker](https://github.com/gagannchandra/github-health-checker) · [Live ↗](https://repo.gaganchandra.in/) · [Demo ↗](https://youtu.be/M27N7L4T-bE)
 > *Python · FastAPI · GitHub REST API · NVIDIA LLaMA 3.1 · Uvicorn*
 
 I wanted to see if you could get an LLM to give a useful, structured opinion on a repo's health — not just a vibe check, but something with actual signal. Turns out if you give it the right metrics and a tight prompt, it does pretty well.
@@ -104,7 +104,7 @@ I wanted to see if you could get an LLM to give a useful, structured opinion on 
 
 ---
 
-### 🔹 [TaskFlow — Team Task Manager](https://github.com/gagannchandra/team-task-manager) · [Live ↗](https://team-task-managerr.up.railway.app)
+### 🔹 [TaskFlow — Team Task Manager](https://github.com/gagannchandra/team-task-manager) · [Live ↗](https://taskflow.gaganchandra.in)
 > *React 19 · Node.js · Express · MongoDB Atlas · JWT · Railway*
 
 Built this to get proper hands-on experience with role-based auth and full-stack deployment — not toy auth, but the kind where different users genuinely can and can't do different things. The monorepo single-service deploy (Express serving the React build directly) took some figuring out but means zero frontend deployment overhead.
@@ -116,7 +116,7 @@ Built this to get proper hands-on experience with role-based auth and full-stack
 
 ---
 
-### 🔹 [Shortly — URL Shortener with Analytics](https://github.com/gagannchandra/shortly-url-shortener) · [Live ↗](https://shortly-pxjs.onrender.com/)
+### 🔹 [Shortly — URL Shortener with Analytics](https://github.com/gagannchandra/shortly-url-shortener) · [Live ↗](https://shortly.gaganchandra.in)
 > *Python · Flask 3 · MongoDB · PyMongo · Docker · GitHub Actions*
 
 Started as "I wonder how bit.ly works" and turned into a proper two-version project. v1 was Flask + SQLite — got the basics working, learned where the edges were. v2 is the rebuild with everything I wished v1 had: MongoDB with TTL indexes that auto-delete expired links (no cron job needed, which felt like cheating in a good way), rate limiting, security headers, Docker, and a CI pipeline that runs on every push.
