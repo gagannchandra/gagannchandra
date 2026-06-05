@@ -1,6 +1,6 @@
 # Gagan Chandra
 
-**Backend / Software Engineer** — Python · FastAPI · Node.js · Docker · PostgreSQL · MongoDB
+**Software Engineer** — Python · FastAPI · Node.js · Docker · PostgreSQL · MongoDB
 
 [gaganchandra02@gmail.com](mailto:gaganchandra02@gmail.com) · [LinkedIn](https://linkedin.com/in/gagan-chandra) · [Portfolio](https://gaganchandra.in) · [GitHub](https://github.com/gagannchandra)
 
